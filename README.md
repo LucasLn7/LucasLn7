@@ -3,9 +3,9 @@
 
 ## Olá, meu nome é <strong>Lucas Lima!</strong>
 - 🏬 &nbsp;Desenvolvedor Frontend.
-- 🎓 Cursando Analises e Desenvolvimeto de Sistemas na FAM.
-- 🔭 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🌱 &nbsp; Aprendendo mais sobre Javascript, Hmtl e Css.
+- 🎓 &nbsp;Cursando Analises e Desenvolvimeto de Sistemas na FAM.
+- 🔭 &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🌱 &nbsp;Aprendendo mais sobre Javascript, Hmtl e Css.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
