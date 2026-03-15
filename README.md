@@ -3,6 +3,7 @@
 
 ## Olá, meu nome é <strong>Lucas Lima!</strong>
 - 🏬 &nbsp;Desenvolvedor Frontend.
+- 🎓 Cursando Analises e Desenvolvimeto de Sistemas na FAM.
 - 🔭 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🌱 &nbsp; Aprendendo mais sobre Javascript, Hmtl e Css.
 
@@ -21,3 +22,4 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
   <br/>
 <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLn7&show_icons=true&theme=radical)
