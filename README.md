@@ -1,16 +1,23 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=LucasLn7&color=006bed)
 
-<!--
-**LucasLn7/LucasLn7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Olá, meu nome é <strong>Lucas Lima!</strong>
+- 🏬 &nbsp;Desenvolvedor Frontend.
+- 🔭 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🌱 &nbsp; Aprendendo mais sobre Javascript, Hmtl e Css.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Aplicações e Dados**
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+  
+**DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+  
+**Ferramentas de Desenvolvimento**
+
+[![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
+  <br/>
+<br/>
