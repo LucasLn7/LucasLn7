@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=LucasLn7&color=006bed)
-<h1 align="center">Lucas Lima 👨‍💻</h1> 
+<h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=200&section=header&text=Lucas%20Lima&fontSize=45&fontColor=ffffff"/>
+</h1>
 <h3 align="center">Front-End Developer</h3>
 <p align="right"><a href="(https://www.linkedin.com/in/lucas-lima-bb0043246/)"><img height="30" src="https://skillicons.dev/icons?i=linkedin"></a>
 
@@ -46,7 +48,5 @@
 </tr>
 </table>
 
-
 <p align="center">Always learning, always building.</p>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer"/>
