@@ -23,3 +23,6 @@
   <br/>
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLn7&show_icons=true&theme=radical)
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](S[EU_LINK_LINKEDIN](https://www.linkedin.com/in/lucas-lima-bb0043246/)) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasLn7)
