@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=200&section=header&text=Lucas%20Lima&fontSize=45&fontColor=ffffff"/>
 </h1>
 <h3 align="center">Front-End Developer</h3>
-<p align="right"><a href="https://www.linkedin.com/in/lucas-lima-bb0043246/"><img height="30" src="https://skillicons.dev/icons?i=linkedin"></a>
+<p align="right"><a href="https://www.linkedin.com/in/lucas-lima-bb0043246/"><img height="40" src="https://skillicons.dev/icons?i=linkedin"></a>
 
 <a href="https://github.com/LucasLn7">
-<img height="30" src="https://skillicons.dev/icons?i=github">
+<img height="40" src="https://skillicons.dev/icons?i=github">
 </a>
 </p>
 
