@@ -2,7 +2,7 @@
 <h1>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=200&section=header&text=Lucas%20Lima&fontSize=45&fontColor=ffffff"/>
 </h1>
-<h3 align="center">Front-End Developer</h3>
+<h2 align="center">Front-End Developer</h2>
 <p align="right"><a href="(https://www.linkedin.com/in/lucas-lima-bb0043246/)"><img height="30" src="https://skillicons.dev/icons?i=linkedin"></a>
 
 <a href="https://github.com/LucasLn7">
