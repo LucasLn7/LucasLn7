@@ -1,11 +1,20 @@
-![](https://komarev.com/ghpvc/?username=LucasLn7&color=006bed)
+![](https://komarev.com/ghpvc/?username=LucasLn7&color=006bed) 
+<h1 align="center">Lucas Lima 👨‍💻</h1> 
+<h3 align="center">Front-End Developer</h3>
+<p align="right"><a href="(https://www.linkedin.com/in/lucas-lima-bb0043246/)"><img height="30" src="https://skillicons.dev/icons?i=linkedin"></a>
 
+<a href="https://github.com/LucasLn7">
+<img height="30" src="https://skillicons.dev/icons?i=github">
+</a>
+</p>
+<img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBvOHNtZmVyc2RzbTlvcWN0OTdpa2p2MTN0am84MGpyMnFuNGgwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
 
-## Olá, meu nome é <strong>Lucas Lima!</strong>
 - 🏬 &nbsp;Desenvolvedor Frontend.
 - 🎓 &nbsp;Cursando Analises e Desenvolvimeto de Sistemas na FAM.
 - 🔭 &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🌱 &nbsp;Aprendendo mais sobre Javascript, Hmtl e Css.
+
+
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -23,6 +32,7 @@
   <br/>
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLn7&show_icons=true&theme=radical)
-## 📫 Contato
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLn7&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=LucasLn7&theme=radical)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lima-bb0043246/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasLn7)
+
