@@ -47,5 +47,9 @@
 </td>
 </tr>
 </table>
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasLn7/LucasLn7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasLn7/LucasLn7/output/github-contribution-grid-snake.svg">
+  <img align="center" src="https://raw.githubusercontent.com/LucasLn7/LucasLn7/output/github-contribution-grid-snake.svg">
+</picture>
 <p align="center">Always learning, always building.</p>
