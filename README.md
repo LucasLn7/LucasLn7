@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=200&section=header&text=Lucas%20Lima&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </h1>
 <h3 align="center">Front-End Developer</h3>
-
 <p align="right"><a href="https://www.linkedin.com/in/lucas-lima-bb0043246/"><img height="40" src="https://skillicons.dev/icons?i=linkedin"></a>
 
 <a href="https://github.com/LucasLn7">
@@ -13,23 +12,28 @@
 
 <img align="right" width="380" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBvOHNtZmVyc2RzbTlvcWN0OTdpa2p2MTN0am84MGpyMnFuNGgwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
 
-<h3>  &nbsp;Sobre mim </h3>
-
 - 🏬 &nbsp;Desenvolvedor Frontend.
 - 🎓 &nbsp;Cursando Análises e Desenvolvimeto de Sistemas na FAM.
 - 🔭 &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🌱 &nbsp;Aprendendo mais sobre JavaScript, Hmtl e Css.
 
-## 🛠️ Tecnologias
 
-### 💻 Front-End
+
+<h3> :rocket: &nbsp; Minhas Skills </h3>
+
+**💻 Front-End**
+
 ![My Skills](https://skillicons.dev/icons?i=html,css,js)
 
-### ⚙️ Back-End
+**⚙️ Back-End**
+
 ![My Skills](https://skillicons.dev/icons?i=python)
 
-### 🧠 Ferramentas
+**🧠 Ferramentas**
+
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode)
+  <br/>
+<br/>
 
 <h2>📊 Estatísticas</h2>
 
@@ -49,4 +53,3 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasLn7/LucasLn7/output/github-contribution-grid-snake.svg">
 </picture>
 <p align="center">Always learning, always building.</p>
-
