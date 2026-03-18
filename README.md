@@ -10,12 +10,12 @@
 </a>
 </p>
 
-<img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBvOHNtZmVyc2RzbTlvcWN0OTdpa2p2MTN0am84MGpyMnFuNGgwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
+<img align="right" width="380" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBvOHNtZmVyc2RzbTlvcWN0OTdpa2p2MTN0am84MGpyMnFuNGgwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
 
 - 🏬 &nbsp;Desenvolvedor Frontend.
-- 🎓 &nbsp;Cursando Analises e Desenvolvimeto de Sistemas na FAM.
+- 🎓 &nbsp;Cursando Análises e Desenvolvimeto de Sistemas na FAM.
 - 🔭 &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🌱 &nbsp;Aprendendo mais sobre Javascript, Hmtl e Css.
+- 🌱 &nbsp;Aprendendo mais sobre JavaScript, Hmtl e Css.
 
 
 
