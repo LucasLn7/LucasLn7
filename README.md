@@ -11,6 +11,7 @@
 </p>
 
 <img align="right" width="380" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBvOHNtZmVyc2RzbTlvcWN0OTdpa2p2MTN0am84MGpyMnFuNGgwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
+<h3> Sobre mim</h3>
 
 - 🏬 &nbsp;Desenvolvedor Frontend.
 - 🎓 &nbsp;Cursando Análises e Desenvolvimeto de Sistemas na FAM.
