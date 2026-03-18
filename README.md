@@ -1,7 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=LucasLn7&color=006bed)
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ff0000&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Front-End+Developer;Sempre+evoluindo..." />
-</p>
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=200&section=header&text=Lucas%20Lima&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </h1>
