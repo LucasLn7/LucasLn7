@@ -16,7 +16,7 @@
 - 🏬 &nbsp;Desenvolvedor Frontend.
 - 🎓 &nbsp;Cursando Análises e Desenvolvimeto de Sistemas na FAM.
 - 🔭 &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🌱 &nbsp;Aprendendo mais sobre JavaScript, Hmtl e Css.
+- 🌱 &nbsp;Aprendendo mais sobre JavaScript, HTML e CSS.
 
 
 
