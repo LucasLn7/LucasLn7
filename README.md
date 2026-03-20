@@ -22,17 +22,17 @@
 
 <h3> :rocket: &nbsp; Minhas Skills </h3>
 
-**💻 Front-End**
+**Front-End**
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-**⚙️ Back-End**
+**Back-End**
 
-![My Skills](https://skillicons.dev/icons?i=python)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
-**🧠 Ferramentas**
+**Ferramentas de Desenvolvimento**
 
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
   <br/>
 <br/>
 
