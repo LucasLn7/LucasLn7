@@ -24,7 +24,7 @@
 
 **Front-End**
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
 
 **Back-End**
 
@@ -40,8 +40,8 @@
 
 <table>
 <tr>
-<td>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasLn7&show_icons=true&theme=radical"/>
+<td> 
+<img height="170em" src="https://streak-stats.demolab.com?user=LucasLn7&theme=radical&hide_border=true"/>
 </td>
 <td>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLn7&layout=compact&theme=radical"/>
