@@ -38,13 +38,13 @@
 
 <h2>📊 Estatísticas</h2>
 
-<table>
+<table align="center">
 <tr>
 <td> 
 <img height="170em" src="https://streak-stats.demolab.com?user=LucasLn7&theme=radical&hide_border=true"/>
 </td>
 <td>
-<img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasLn7&theme=radical"/>
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasLn7&theme=radical"/>
 </td>
 </tr>
 </table>
