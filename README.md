@@ -44,7 +44,7 @@
 <img height="170em" src="https://streak-stats.demolab.com?user=LucasLn7&theme=radical&hide_border=true"/>
 </td>
 <td>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLn7&layout=compact&theme=radical"/>
+<img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasLn7&theme=radical"/>
 </td>
 </tr>
 </table>
